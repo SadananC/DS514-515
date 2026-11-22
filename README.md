@@ -26,8 +26,9 @@ Sleep Data set
 - RQ2: พฤติกรรมการดื่มกาแฟและแอลกอฮอล์มีผลให้เกิดโรคที่เกี่ยวกับการนอนหรือไม่?
 - RQ3: ระยะเวลาการใช้หน้าจอก่อนนอน (Screen Time Before Bed) ส่งผลต่อการเป็นโรคเกี่ยวกับการนอนหรือไม่?
 - RQ4: ระดับความเครียด ส่งผลต่อการเป็นโรคเกี่ยวกับการนอนหรือไม่?
-3.2 สมมติฐาน
 
+
+3.2 สมมติฐาน
 Blood Pressure, Caffeine Intake (cups/day), Alcohol Consumption (drinks/week), Screen Time Before Bed (mins), Last Meal Before Bed (hours) เป็นปัจจัยที่ส่งผลทำให้เกิดโรคเกี่ยวกับการนอน
 
 ---
