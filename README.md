@@ -27,7 +27,7 @@ Sleep Data set
 - RQ3: หากสามารถลด Screen Time ก่อนนอนลงทุกๆ 15 นาที จะทำให้ไม่เสี่ยงเป็นโรคเกี่ยวกับการนอน?
 - RQ4: ระยะเวลาทานอาหารมื้อสุดท้ายก่อนนอน ส่งผลการเกิดโรคเกี่ยวกับการนอนหรือไม่?
 
-3.2 3.2 สมมติฐาน
+3.2 สมมติฐาน
 
 Blood Pressure, Caffeine Intake (cups/day), Alcohol Consumption (drinks/week), Screen Time Before Bed (mins), Last Meal Before Bed (hours) เป็นปัจจัยที่ส่งผลทำให้เกิดโรคเกี่ยวกับการนอน
 
